@@ -1,0 +1,15 @@
+# Este repositorio publica material de portafolio.
+# Conservar el proyecto Unreal completo y sus recursos por separado.
+/Content/
+/Config/
+/Saved/
+/Intermediate/
+/Binaries/
+/DerivedDataCache/
+/Windows/
+/.vs/
+*.uproject
+*.uasset
+*.umap
+*.pdb
+*.log
