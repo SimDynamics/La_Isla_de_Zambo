@@ -62,3 +62,7 @@ Los recursos externos conservan sus condiciones de uso. Los créditos no concede
 ## Estado
 
 Proyecto académico en fase de prototipo. La presentación corresponde a la versión para PC. Este repositorio contiene material de portafolio; los paquetes de assets y los archivos completos del proyecto se conservan por separado.
+
+## Otro proyecto de videojuegos
+
+[ProyectoIntegrador](https://github.com/SimDynamics/ProyectoIntegrador): juego académico 2D de médico y bacterias, desarrollado en equipo con Unreal Engine, PaperZD y Blueprints. El repositorio incluye el proyecto y describe mis aportaciones.
