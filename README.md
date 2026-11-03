@@ -4,6 +4,12 @@ Prototipo académico de terror y exploración en primera persona, desarrollado e
 
 Marco llega de noche a una isla tropical. Al explorar sus cabañas encuentra notas, una llave y un libro maldito relacionados con Zambo. La experiencia combina búsqueda de pistas, interacción con objetos y eventos cinematográficos dentro de un nivel.
 
+## Video de demostración
+
+[Ver gameplay y cinemáticas (3 min 42 s, MP4)](video/Gameplay-Cinematicas.mp4)
+
+La demostración muestra el menú, la exploración y el evento cinematográfico final. Copia de visualización en 1080p a 30 FPS, de aproximadamente 44 MiB.
+
 ![Entorno de una cabaña durante la exploración](images/zambo-cabana.png)
 
 ## Mecánicas documentadas
